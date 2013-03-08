@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ChummaActivity!</string>
+    <string name="app_name">CALCULATOR</string>
+    <string name="click">1</string>
+    <string name="two">2</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="three">3</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="point">.</string>
+    <string name="multi">MULTIMEDIA</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="clear">CLS</string>
+    <string name="min">-</string>
+    <string name="men">MEM</string>
+    <string name="mrc">MRC</string>
+
+</resources>
